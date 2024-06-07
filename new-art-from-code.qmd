@@ -2,9 +2,10 @@
 title: "art-from-code"
 format: html
 editor: visual
-by: Eric Jiao
 date: 6/5/2024
 ---
+
+by: Eric Jiao
 
 ## Repository link
 
